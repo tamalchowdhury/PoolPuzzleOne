@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PoolPuzzleOne
+comment0.text=\r\n\ Pool\ Puzzle\ one\ from\ the\ book\ Head\ first\ Java\r\n\ It\ will\ output\:\r\n\ a\ noise\r\n\ annoys\r\n\ an\ oyster\r\n\ \r\n\ By\ using\ the\ given\ inputs\ and\ format\ in\ the\ book,\ page\ 24.\ \r\n\ I\ can\ use\ one\ item\ only\ once\!\r\n\ \r\n\ It\ was\ heck\ of\ a\ puzzle\!\ I\ wrote\ the\ algorithm\ on\ paper\r\n\ and\ then\ coded\ here.\r\n\r\n\ @author\ Tamal\ Anwar\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
